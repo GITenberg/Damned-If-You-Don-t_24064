@@ -1,0 +1,45 @@
+_repo: Damned-If-You-Don-t_24064
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Dongen, H. R.
+    aliases:
+    - Dongen, van
+    - Dongen, H. R. Van
+    - Van Dongen, Henry Richard
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '26301'
+    url: http://www.gutenberg.org/2009/agents/26301
+covers:
+- cover_type: archival
+  image_path: 24064-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Jorgensen, Ivar
+    - Garrett, Gordon Randall
+    - Garret, Randall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Power (Mechanics) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Inventors -- Fiction'
+title: Damned If You Don't
+url: http://www.gutenberg.org/ebooks/24064
